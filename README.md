@@ -8,11 +8,11 @@
 - [x] findIndex
 - [x] find
 - [x] filter
-- [] map
-- [] fill
-- [] copyWithin
-- [] some
-- [] every
-- [] reduce
+- [ ] map
+- [ ] fill
+- [ ] copyWithin
+- [ ] some
+- [ ] every
+- [ ] reduce
 
 
