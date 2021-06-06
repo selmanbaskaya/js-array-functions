@@ -1,4 +1,12 @@
 ## Javascript | Array Functions
-![](assets/readme-img.png)
+![](readme-img.png)
+
+
+****
+
+## ToDo List
+- [x] findIndex
+- [x] find
+- [x] filter
 
 
